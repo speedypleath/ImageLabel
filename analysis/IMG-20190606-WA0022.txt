@@ -1,0 +1,8 @@
+Labels:Font  Score:0.8287062644958496
+Recipe  Score:0.8080588579177856
+Material property  Score:0.8022680282592773
+Parallel  Score:0.7151693105697632
+Paper  Score:0.678148090839386
+Paper product  Score:0.6662634611129761
+Document  Score:0.6289229393005371
+Event  Score:0.5724021792411804

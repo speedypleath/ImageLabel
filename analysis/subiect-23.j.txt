@@ -1,0 +1,3 @@
+Labels:Font  Score:0.7869153022766113
+Document  Score:0.5392597317695618
+Number  Score:0.5352151989936829

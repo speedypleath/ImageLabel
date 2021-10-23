@@ -1,0 +1,10 @@
+Labels:Handwriting  Score:0.9574868083000183
+Office supplies  Score:0.8819553852081299
+Font  Score:0.8482629060745239
+Pen  Score:0.844076931476593
+Writing implement  Score:0.8186520338058472
+Material property  Score:0.8030591011047363
+Ruler  Score:0.7712761163711548
+Writing  Score:0.7690392136573792
+Office equipment  Score:0.7664275169372559
+Parallel  Score:0.7618181705474854

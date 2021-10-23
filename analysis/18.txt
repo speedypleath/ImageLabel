@@ -1,0 +1,10 @@
+Labels:Microphone  Score:0.9724944829940796
+Musician  Score:0.933201253414154
+Musical instrument  Score:0.9258401989936829
+String instrument  Score:0.9030483365058899
+String instrument  Score:0.893408477306366
+Guitarist  Score:0.8874762654304504
+Guitar accessory  Score:0.8874409198760986
+Music  Score:0.8801031708717346
+Concert  Score:0.8800061941146851
+String instrument accessory  Score:0.879788875579834

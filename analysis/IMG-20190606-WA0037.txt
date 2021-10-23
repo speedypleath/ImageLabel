@@ -1,0 +1,10 @@
+Labels:Font  Score:0.8314374685287476
+Material property  Score:0.8006578087806702
+Parallel  Score:0.720762312412262
+Rectangle  Score:0.70317143201828
+Paper  Score:0.6637387275695801
+Document  Score:0.6186227202415466
+Event  Score:0.5699849724769592
+Letter  Score:0.5601909756660461
+Electric blue  Score:0.5594120621681213
+Handwriting  Score:0.5475698113441467

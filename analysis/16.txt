@@ -1,0 +1,10 @@
+Labels:Band plays  Score:0.9610252380371094
+Musical instrument  Score:0.955294132232666
+Membranophone  Score:0.9490265846252441
+Microphone  Score:0.9484694600105286
+Guitar  Score:0.9360329508781433
+Idiophone  Score:0.9347418546676636
+Drum  Score:0.9329085350036621
+Musician  Score:0.925836980342865
+Public address system  Score:0.9142614603042603
+String instrument  Score:0.9100518226623535

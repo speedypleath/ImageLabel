@@ -1,0 +1,10 @@
+Labels:Hair  Score:0.982970654964447
+Public address system  Score:0.8869960308074951
+Entertainment  Score:0.8854354619979858
+Music  Score:0.826903223991394
+Social group  Score:0.8210367560386658
+Music venue  Score:0.7915469408035278
+Leisure  Score:0.7861981987953186
+Crowd  Score:0.7804018259048462
+Performing arts  Score:0.7560640573501587
+Event  Score:0.7478763461112976

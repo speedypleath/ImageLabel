@@ -1,0 +1,10 @@
+Labels:Automotive lighting  Score:0.9125849008560181
+Rectangle  Score:0.8700880408287048
+Automotive tire  Score:0.8470144271850586
+Bumper  Score:0.83516925573349
+Font  Score:0.8275764584541321
+Automotive exterior  Score:0.8265053629875183
+Vehicle registration plate  Score:0.8151535987854004
+Magenta  Score:0.7749072909355164
+Technology  Score:0.7356956601142883
+Display device  Score:0.7343043088912964

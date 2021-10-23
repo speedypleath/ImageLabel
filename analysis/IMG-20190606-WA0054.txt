@@ -1,0 +1,10 @@
+Labels:e-book readers  Score:0.8484340906143188
+Gadget  Score:0.826306164264679
+Font  Score:0.8158875107765198
+Mobile device  Score:0.7673579454421997
+Tablet computer  Score:0.7540823817253113
+Electronic device  Score:0.7337192893028259
+Paper  Score:0.6842892169952393
+Publication  Score:0.6560409665107727
+Multimedia  Score:0.649080753326416
+Paper product  Score:0.639611005783081

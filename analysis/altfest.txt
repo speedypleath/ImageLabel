@@ -1,0 +1,10 @@
+Labels:Sleeve  Score:0.8372921347618103
+Font  Score:0.8340672850608826
+Automotive tire  Score:0.8269910216331482
+Motor vehicle  Score:0.7962920665740967
+Photo caption  Score:0.6843482851982117
+Advertising  Score:0.6738245487213135
+Fictional character  Score:0.6601282358169556
+T-shirt  Score:0.6477064490318298
+Carmine  Score:0.6308674812316895
+Games  Score:0.6096606254577637

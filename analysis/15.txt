@@ -1,0 +1,10 @@
+Labels:Membranophone  Score:0.9749272465705872
+Idiophone  Score:0.9681196212768555
+Microphone  Score:0.9598894119262695
+Band plays  Score:0.9592265486717224
+Drum  Score:0.9483742117881775
+Musical instrument  Score:0.93809974193573
+Public address system  Score:0.9341645240783691
+String instrument  Score:0.9271145462989807
+String instrument  Score:0.9255151152610779
+Cymbal  Score:0.9217376112937927

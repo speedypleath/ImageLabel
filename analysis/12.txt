@@ -1,0 +1,10 @@
+Labels:Band plays  Score:0.9181666970252991
+Music  Score:0.8558792471885681
+Performing arts  Score:0.8493088483810425
+Concert  Score:0.8365666270256042
+Artist  Score:0.8330944180488586
+Entertainment  Score:0.8320552110671997
+Musician  Score:0.7891586422920227
+String instrument  Score:0.7736851572990417
+Music artist  Score:0.773384153842926
+Performance art  Score:0.7601916193962097

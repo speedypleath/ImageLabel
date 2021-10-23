@@ -1,0 +1,10 @@
+Labels:Natural environment  Score:0.8892916440963745
+Organism  Score:0.8659123182296753
+Vegetation  Score:0.8490579724311829
+Font  Score:0.8474903106689453
+Natural landscape  Score:0.7838625311851501
+Grass  Score:0.7473402619361877
+Terrestrial plant  Score:0.7388921976089478
+Rectangle  Score:0.7280859351158142
+Grassland  Score:0.70808345079422
+Happy  Score:0.7029758095741272

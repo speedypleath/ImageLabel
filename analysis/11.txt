@@ -1,0 +1,10 @@
+Labels:Musician  Score:0.9334401488304138
+Microphone  Score:0.9256616234779358
+Band plays  Score:0.9125292897224426
+Artist  Score:0.8782294392585754
+Concert  Score:0.8769490122795105
+Music artist  Score:0.8757646083831787
+Entertainment  Score:0.8724840879440308
+Music  Score:0.8721746206283569
+Standing  Score:0.8642165660858154
+Performing arts  Score:0.8638814091682434

@@ -1,0 +1,8 @@
+Labels:Font  Score:0.8404808640480042
+Material property  Score:0.8005473017692566
+Paper  Score:0.6752665638923645
+Paper product  Score:0.6432411074638367
+Document  Score:0.6327228546142578
+Letter  Score:0.6160892844200134
+Publication  Score:0.5530545711517334
+Symmetry  Score:0.5155493021011353

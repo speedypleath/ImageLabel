@@ -1,0 +1,10 @@
+Labels:Rectangle  Score:0.906754195690155
+Tile flooring  Score:0.8592942357063293
+Wood  Score:0.8563353419303894
+Flooring  Score:0.8342126607894897
+Floor  Score:0.8206884264945984
+Triangle  Score:0.8203592300415039
+Wall  Score:0.8102863430976868
+Font  Score:0.8017944693565369
+Material property  Score:0.801436722278595
+Tints and shades  Score:0.7740120887756348

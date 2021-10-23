@@ -1,0 +1,8 @@
+Labels:Grey  Score:0.8410919904708862
+Font  Score:0.7466613054275513
+Monochrome  Score:0.7186362147331238
+Pattern  Score:0.7040790319442749
+Monochrome photography  Score:0.6930637955665588
+Art  Score:0.6612036228179932
+Rectangle  Score:0.5655940175056458
+Visual arts  Score:0.5009445548057556

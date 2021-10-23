@@ -1,0 +1,10 @@
+Labels:Font  Score:0.8515549898147583
+Automotive tire  Score:0.7888583540916443
+Motor vehicle  Score:0.7134889960289001
+Advertising  Score:0.7024304866790771
+Graphics  Score:0.6797473430633545
+Brand  Score:0.6565999388694763
+Symbol  Score:0.6511913537979126
+Logo  Score:0.65089350938797
+Carmine  Score:0.6381990909576416
+Graphic design  Score:0.6317713856697083

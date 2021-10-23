@@ -1,0 +1,10 @@
+Labels:Handwriting  Score:0.9541925191879272
+Font  Score:0.8471117615699768
+Writing  Score:0.7804522514343262
+Publication  Score:0.7617717385292053
+Book  Score:0.7147238254547119
+Paper  Score:0.7051928043365479
+Paper product  Score:0.6762368679046631
+Document  Score:0.6643649935722351
+History  Score:0.6492037773132324
+Monochrome photography  Score:0.6051990389823914

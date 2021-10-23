@@ -1,0 +1,10 @@
+Labels:Musical instrument  Score:0.8914335370063782
+Guitar accessory  Score:0.8874409198760986
+Band plays  Score:0.8872125744819641
+Guitar  Score:0.8857824206352234
+String instrument  Score:0.8833710551261902
+String instrument  Score:0.8764371871948242
+Musician  Score:0.8699504733085632
+String instrument accessory  Score:0.8690024018287659
+Musical instrument accessory  Score:0.8685452938079834
+Microphone  Score:0.8583424091339111

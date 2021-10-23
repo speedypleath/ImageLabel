@@ -1,0 +1,10 @@
+Labels:Green  Score:0.936572253704071
+Musical instrument  Score:0.9225238561630249
+Microphone  Score:0.9169735908508301
+Musician  Score:0.9161826968193054
+Plant  Score:0.9077383279800415
+Musical instrument accessory  Score:0.8896864056587219
+Guitar accessory  Score:0.8872653841972351
+Guitarist  Score:0.8788080215454102
+Guitar  Score:0.8700308799743652
+Band plays  Score:0.8663800954818726
