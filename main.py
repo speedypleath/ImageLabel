@@ -8,7 +8,7 @@ from googleapiclient.http import MediaIoBaseDownload
 from google.auth.transport.requests import Request
 from google.cloud import vision
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = "/hdd/memory-box-329820-6a22d487571d.json"
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = "memory-box-329820.json"
 client = vision.ImageAnnotatorClient()
 
 class Parser_Secrets():

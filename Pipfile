@@ -4,6 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+google-auth-oauthlib = "*"
 google-cloud-vision = "*"
 google-cloud = "*"
 google-cloud-bigquery = "*"
